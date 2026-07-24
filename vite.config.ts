@@ -28,7 +28,7 @@ export default defineConfig(({ command }) => ({
   build: {
     lib: {
       entry: "src/index.ts",
-      name: "Kcb-Demo-FrontUi",
+      name: "KcbUi",
       fileName: "index",
     },
 
