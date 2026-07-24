@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/index.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/ui/cutombutton.tsx","./src/components/ui/button.tsx","./src/shared/lib/utils.ts","./src/shared/ui/button/button.tsx","./src/shared/ui/button/index.ts","./src/shared/ui/input/index.ts","./src/shared/ui/input/input.tsx"],"version":"6.0.3"}
