@@ -1,4 +1,4 @@
-# KCB Demo Front
+# KCB UI
 
 Enterprise React UI Component Library
 
@@ -14,7 +14,7 @@ Enterprise React UI Component Library
 ## Goal
 
 공통 UI 컴포넌트를 개발하고
-Nexus를 통해 여러 프로젝트에서 사용하는 것을 목표로 한다.
+여러 프로젝트에서 사용하는 것을 목표로 한다.
 
 ## Components
 
