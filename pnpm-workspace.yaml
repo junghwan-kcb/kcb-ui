@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - '@up/ui@1.0.0'
