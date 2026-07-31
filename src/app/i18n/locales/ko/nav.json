@@ -1,0 +1,28 @@
+{
+  "groups": {
+    "dataManagement": "데이터관리",
+    "analysisTools": "분석 도구",
+    "batchJobs": "배치 작업 관리",
+    "operation": "운영관리"
+  },
+  "items": {
+    "projectManagement": "프로젝트 관리",
+    "datasource": "데이터원본 관리",
+    "metadataset": "메타데이터셋",
+    "dataset": "데이터셋 관리",
+    "model": "모델 관리",
+    "calibration": "모델 등급화",
+    "validation": "모델 검증",
+    "deployment": "배포관리",
+    "retrainingJob": "재학습 작업 관리",
+    "adaptiveRetrainingJob": "Adaptive 재학습 작업 관리",
+    "validationJob": "검증 작업 관리",
+    "operationModel": "모델관리",
+    "protocol": "프로토콜 관리",
+    "function": "함수 관리",
+    "approval": "승인 관리",
+    "log": "로그 관리",
+    "serviceScheduler": "서비스 스케줄러",
+    "users": "사용자 관리"
+  }
+}

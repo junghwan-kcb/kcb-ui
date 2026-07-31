@@ -1,0 +1,22 @@
+{
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "search": "Search",
+    "reset": "Reset",
+    "logout": "Log out"
+  },
+  "status": {
+    "loading": "Loading…",
+    "comingSoon": "Coming soon",
+    "empty": "No data available.",
+    "error": "Something went wrong."
+  },
+  "language": {
+    "label": "Select language",
+    "ko": "한국어",
+    "en": "English"
+  }
+}

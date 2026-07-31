@@ -1,0 +1,28 @@
+{
+  "groups": {
+    "dataManagement": "Data Management",
+    "analysisTools": "Analysis Tools",
+    "batchJobs": "Batch Job Management",
+    "operation": "Operations"
+  },
+  "items": {
+    "projectManagement": "Project Management",
+    "datasource": "Data Source Management",
+    "metadataset": "Metadataset",
+    "dataset": "Dataset Management",
+    "model": "Model Management",
+    "calibration": "Model Calibration",
+    "validation": "Model Validation",
+    "deployment": "Deployment Management",
+    "retrainingJob": "Retraining Jobs",
+    "adaptiveRetrainingJob": "Adaptive Retraining Jobs",
+    "validationJob": "Validation Jobs",
+    "operationModel": "Model Management",
+    "protocol": "Protocol Management",
+    "function": "Function Management",
+    "approval": "Approval Management",
+    "log": "Log Management",
+    "serviceScheduler": "Service Scheduler",
+    "users": "User Management"
+  }
+}
